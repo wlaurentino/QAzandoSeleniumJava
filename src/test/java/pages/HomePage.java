@@ -6,6 +6,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import support.Utils;
 
+// ajustando
 public class HomePage extends Utils {
 
     WebDriver driver;

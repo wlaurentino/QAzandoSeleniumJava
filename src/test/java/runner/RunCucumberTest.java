@@ -17,6 +17,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 )
 
 // mvn test cluecumber-report:reporting -Dtest="RunCucumberTest" // no terminal
+// ajustando
 
 public class RunCucumberTest {
 

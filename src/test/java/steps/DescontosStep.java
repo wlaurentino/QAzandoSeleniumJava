@@ -7,7 +7,9 @@ import org.openqa.selenium.By;
 import pages.HomePage;
 import runner.RunCucumberTest;
 
+// ajustando
 public class DescontosStep extends RunCucumberTest {
+
 
     HomePage    homePage = new HomePage(driver);
 

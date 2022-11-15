@@ -1,5 +1,6 @@
 # language: en
 
+// ajustando
   @desconto
 Feature: : Receber o cupom desconto da qazando
   Eu como usuário da qazando
